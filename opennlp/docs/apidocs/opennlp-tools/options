@@ -1,0 +1,24 @@
+-classpath
+'/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-tools/target/classes:/home/colen/.m2/repository/org/osgi/org.osgi.core/4.2.0/org.osgi.core-4.2.0.jar:/home/colen/.m2/repository/net/sf/jwordnet/jwnl/1.3.3/jwnl-1.3.3.jar:/home/colen/.m2/repository/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.jar:/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-maxent/target/opennlp-maxent-3.0.3.jar'
+-encoding
+'UTF-8'
+-public
+-quiet
+-sourcepath
+'/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-tools/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2013 <a href="http://www.apache.org/">The Apache Software Foundation</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-tools/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Apache OpenNLP Tools 1.5.3 API'
+-linkoffline
+'http://download.oracle.com/javase/1.5.0/docs/api' '/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-tools/target/javadoc-bundle-options'
+-version
+-windowtitle
+'Apache OpenNLP Tools 1.5.3 API'

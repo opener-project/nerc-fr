@@ -1,0 +1,24 @@
+-classpath
+'/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-maxent/target/classes'
+-encoding
+'UTF-8'
+-public
+-quiet
+-sourcepath
+'/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-maxent/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2013 <a href="http://www.apache.org/">The Apache Software Foundation</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-maxent/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Apache OpenNLP Maxent 3.0.3 API'
+-linkoffline
+'http://download.oracle.com/javase/1.5.0/docs/api' '/home/colen/opennlp-1.5.3/trunk/opennlp/target/checkout/opennlp-maxent/target/javadoc-bundle-options'
+-version
+-windowtitle
+'Apache OpenNLP Maxent 3.0.3 API'
