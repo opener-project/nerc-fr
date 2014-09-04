@@ -31,13 +31,13 @@ Development requirements:
 
 ## Installation
 
-Installation is not really necessary to start using the OpenNLP command line tool.
-Simply execute the *opennlp/bin/openlp* script.
+Installation is not really necessary you can get started using the OpeNLP command
+line tool provided in the repository.
 
 ## Usage
 
-You can use the extended OpenNLP version as common version as described at the
-<a href="https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html">Apache OpenNLP Developer Documentation</a>.
+You can use the extended OpenNLP version in the same way that the Apache OpenNLP
+original version described in the<a href="https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html">Developer Documentation</a>.
 
 If you want to train a new NERC model with PoS feature extraction, you have to
 provide a custom feature generator. The trained NERC model will store the PoS model
