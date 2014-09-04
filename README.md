@@ -122,7 +122,7 @@ The following table shows the supported elements:
 | ------------ | ---------- | --------------------------------------------------------------------------------------------- |
 | generators   | yes        | none                                                                                          |
 | cache        | yes        | none                                                                                          |
-| pos          | no         | *model* PoS model path                                                                        |
+| pos          | no         | *model* specify the PoS model path                                                            |
 | charngram    | no         | *min* and *max* specify the length of the generated character ngrams                          |
 | definition   | no         | none                                                                                          |
 | dictionary   | no         | *dict* is the key of the dictionary resource to use, and *prefix* is a feature prefix string  |
