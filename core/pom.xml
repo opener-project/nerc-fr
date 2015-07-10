@@ -74,7 +74,7 @@
       <extension>
         <groupId>org.apache.maven.wagon</groupId>
         <artifactId>wagon-ssh</artifactId>
-        <version>2.3</version>
+        <version>2.6</version>
       </extension>
     </extensions>
   </build>
@@ -82,7 +82,7 @@
   <distributionManagement>
     <repository>
       <id>hslt-server</id>
-      <url>scp://hslt-server.vicomtech.es/home/VICOMTECH/share/maven/repository</url>
+      <url>sftp://hslt-server.vicomtech.es/home/VICOMTECH/share/maven/repository</url>
     </repository>
   </distributionManagement>
   
